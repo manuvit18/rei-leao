@@ -30,6 +30,7 @@
 .filme{ 
     background-color: #967543;
     display: flex;
+    justify-content: center;
 }
 
 .filme-div {
