@@ -8,12 +8,7 @@
     color: rgb(0, 0, 0);
     display: flex;
     justify-content: space-around;
-    .poppins-regular {
-        font-family: "Poppins", sans-serif;
-        font-weight: 400;
-        font-style: normal;
-      }
-
+    font-family: "Poppins", sans-serif;
 }
 
 .cabeçalho-img {
@@ -32,7 +27,7 @@
     width: 30%;
 }
 
-.filme{ 
+.filme {
     background-color: #967543;
     display: flex;
     justify-content: center;
