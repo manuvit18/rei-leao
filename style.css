@@ -12,7 +12,7 @@
 
 .cabeçalho-img {
     width: 15%;
-    left: 0;
+    justify-content: left;
 }
 
 .cabeçalho-lista-item {
