@@ -12,12 +12,12 @@
 
 .cabeçalho-img {
     width: 15%;
-   
+   align-items: start;
 }
 
 .cabeçalho-lista-item {
     display: inline-block;
     padding: 24px;
     font-size: 30px;
-    font: bold; font: italic;
+    
 }
