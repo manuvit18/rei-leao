@@ -13,15 +13,6 @@
 
 .cabeçalho-img {
     width: 15%;
-<style>
-div{
-    text-align: left: ;;
-}
-</style>
-
-<div> 
-<img src="Letterboxd_2018_logo_(vertical).svg.png">
-</div>
 
 }
 
@@ -30,4 +21,8 @@ div{
     padding: 24px;
     font-size: 30px;
 
+}
+
+.filme{ 
+    background-color: 967543;
 }
