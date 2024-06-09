@@ -8,8 +8,19 @@
     color: rgb(0, 0, 0);
     display: flex;
     justify-content: space-around;
-    font-family: 'Times New Roman', Times, serif;
+    // <uniquifier>: Use a unique and descriptive class name
+    // <weight>: Use a value from 100 to 900
 
+    .geologica-<uniquifier> {
+        font-family: "Geologica", sans-serif;
+        font-optical-sizing: auto;
+        font-weight: <weight>;
+        font-style: normal;
+        font-variation-settings:
+            "slnt" 0,
+            "CRSV" 0,
+            "SHRP" 0;
+    }
 }
 
 .cabeçalho-img {
@@ -28,7 +39,7 @@
     width: 30%;
 }
 
-.filme{ 
+.filme {
     background-color: #967543;
     display: flex;
     justify-content: center;
