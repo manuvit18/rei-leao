@@ -16,4 +16,5 @@
 
 .cabeçalho-lista-item {
     display: inline-block;
+    padding: 24px;
 }
