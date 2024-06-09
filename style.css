@@ -46,3 +46,7 @@ body{
 .filme-título {
     padding: 24px 0;
 }
+
+.filme-título {
+    font-family: "Aboreto", system-ui;
+}
