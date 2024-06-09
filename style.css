@@ -1,8 +1,9 @@
-header {
+.cabeçalho{
     background-color: #00382B;
     color: rgb(0, 0, 0);
+    display: flex;
 }
 
-.cabeçalho {
+.cabeçalho-img {
     width: 15%;
 }
