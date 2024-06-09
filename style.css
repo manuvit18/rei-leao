@@ -6,15 +6,17 @@
     background-color: #00382B;
     color: rgb(0, 0, 0);
     display: flex;
-    
+    justify-content: space-around;
+
 }
 
 .cabeçalho-img {
     width: 15%;
-    justify-content: left;
+   
 }
 
 .cabeçalho-lista-item {
     display: inline-block;
     padding: 24px;
+    font-size: 24px;
 }
