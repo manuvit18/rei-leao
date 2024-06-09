@@ -13,12 +13,21 @@
 
 .cabeçalho-img {
     width: 15%;
-display: inline-block;
+<style>
+div{
+    text-align: left: ;;
+}
+</style>
+
+<div> 
+<img src="Letterboxd_2018_logo_(vertical).svg.png">
+</div>
+
 }
 
 .cabeçalho-lista-item {
     display: inline-block;
     padding: 24px;
     font-size: 30px;
-font: italic;
+
 }
