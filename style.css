@@ -66,7 +66,7 @@ font-size: 40px;
 .timão-div{
     align-items: center;
     text-align: center;
-    width: 40px;
+    ;
 }
 
 .pumba-div{
@@ -97,4 +97,8 @@ font-size: 40px;
 .personagens-todos{
     display: grid;
     grid-template-columns: 20% 20% 20% 20% 20%;
+}
+
+.pumba-img{
+    width: 30px;
 }
